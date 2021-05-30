@@ -1,0 +1,7 @@
+cache_dir/
+data/
+data_big_files/
+data_store/
+outputs/
+runs/
+wandb/
